@@ -1,1 +1,1 @@
-0x00-vagrant
+core operating system name
