@@ -1,1 +1,0 @@
-core operating system name
